@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ASHU CHOUDHARY
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++,Web Development
+- 🌱 I’m currently learning C++, DSA with C++, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
